@@ -1,12 +1,12 @@
 title: Murt Bahrani # The title of the blog
 author: Murt Bahrani
 email: "" # your email shown in the footer
-url: http://murtbahrani.com/ # this is your site's root address.
+url: https://murtbahrani.com/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
-favicon: "" # "./favicon.ico" set the favicon of the site 
+favicon: "" # "./favicon.ico" set the favicon of the site
 
 show_excerpts: false # set to true to show excerpts on the homepage
-  
+
 # Moving date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
@@ -21,25 +21,25 @@ moving:
     github:  murtio
     rss: RSS
     dribbble: blog
-    facebook: 
-    
-    # flickr:   
-    # instagram: 
+    facebook:
+
+    # flickr:
+    # instagram:
     linkedin: murt
-    # pinterest: 
-    # youtube: 
-    # youtube_channel: 
-    # youtube_channel_name: 
-    # telegram: 
-    # googleplus: 
-    # microdotblog: 
+    # pinterest:
+    # youtube:
+    # youtube_channel:
+    # youtube_channel_name:
+    # telegram:
+    # googleplus:
+    # microdotblog:
 
     # Mastodon instances
     # mastodon:
-    # - username: 
-    #   instance: 
-    # - username: 
-    #   instance: 
+    # - username:
+    #   instance:
+    # - username:
+    #   instance:
 
 # Build settings
 # theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.

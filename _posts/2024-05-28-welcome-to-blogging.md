@@ -4,7 +4,9 @@ title: "[Book] Empire of the Summer Moon"
 categories: blog
 author: Murt Bahrani
 ---
-https://scgwynne.com/product/empire-of-the-summer-moon
+
+[Empire of the Summer Moon from the author's web page.](https://scgwynne.com/product/empire-of-the-summer-moon)
+
 
 Empire of the Summer Moon is a sad and heartbreaking story of inevitable fate. The tragedy of Anna Parker's three deaths—first kidnapped by Comanches, then by European Americans, and finally losing her children and people—is profoundly sorrowful. The way of life for Quanah Parker and his people once enjoyed, living freely on the plains, hunting buffalo, raiding under the summer moon, and escaping through the prairies, was lost forever to a new world. A world where they had to learn to own property, pay taxes, and queued up to receive beef from the 'Great Father in Washington'.
 
